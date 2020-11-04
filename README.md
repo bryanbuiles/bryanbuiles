@@ -1,17 +1,16 @@
-### Hi there 👋
-[![Header](https://raw.githubusercontent.com/bryanbuiles/<OWNER>/<OWNER>/Full_stack.png "Header")]
+![Header](https://raw.githubusercontent.com/bryanbuiles/bryanbuiles/main/bryan.png)
+<p align='center'>
+<a href="https://www.linkedin.com/in/brayam-steven-builes-echavarria/"><img height="30" src="https://github.com/bryanbuiles/bryanbuiles/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://twitter.com/bryan_builes"><img height="30" src="https://github.com/bryanbuiles/bryanbuiles/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
+</p>
 
-<!--
-**bryanbuiles/bryanbuiles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! My name is Bryan Builes 👋
 
-Here are some ideas to get you started:
+I want to tell you a little bit about me, I am currently a software developer in training with a great desire to learn every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Additionally I am an environmental engineer and nature lover, my big dream is to use all those software tools and what I am to build a better world for humans in balance with nature. I am also very passionate about astronomy, history, science fiction and I love to enjoy a good book. 
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bryanbuiles)](https://github.com/anuraghazra/github-readme-stats)
+
