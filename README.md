@@ -4,14 +4,14 @@
 <a href="https://twitter.com/bryan_builes"><img height="30" src="https://github.com/bryanbuiles/bryanbuiles/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-### Hi there! My name is Bryan Builes 👋
+## Hi there! My name is Bryan Builes 👋
 
 I want to tell you a little bit about me, I am currently a software developer in training with a great desire to learn every day.
 
 Additionally I am an environmental engineer and nature lover, my big dream is to use all those software tools and what I am to build a better world for humans in balance with nature. I am also very passionate about astronomy, history, science fiction and I love to enjoy a good book. 
 
 ---
-## Find me at:
+### Find me at:
 
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/bryan_builes)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/brayam-builes/)
@@ -24,6 +24,12 @@ Additionally I am an environmental engineer and nature lover, my big dream is to
 	<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
 	<img src="https://img.shields.io/badge/css3-%233573b5.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
 	<img src="https://img.shields.io/badge/git-%23fc6d26.svg?&style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+        <img src="https://img.shields.io/badge/flask%20-%23000.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask"/>
+	<img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+	<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+	<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+	<img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+	
 </details>
 
 <details>
