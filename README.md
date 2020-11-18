@@ -1,10 +1,10 @@
-![Header](https://raw.githubusercontent.com/bryanbuiles/bryanbuiles/main/bryan1.png)
+![Header](https://raw.githubusercontent.com/bryanbuiles/bryanbuiles/main/bryan2.png)
 <p align='center'>
 <a href="https://www.linkedin.com/in/brayam-builes/"><img height="30" src="https://github.com/bryanbuiles/bryanbuiles/blob/main/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/bryan_builes"><img height="30" src="https://github.com/bryanbuiles/bryanbuiles/blob/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
 </p>
 
-## Hi there! My name is Bryan Builes 👋
+## Hi there! My name is Brayam Builes 👋
 
 I want to tell you a little bit about me, I am currently a software developer in training with a great desire to learn every day.
 
