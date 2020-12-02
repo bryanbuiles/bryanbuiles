@@ -10,6 +10,8 @@ I want to tell you a little bit about me, I am currently a software developer in
 
 Additionally I am an environmental engineer and nature lover, my big dream is to use all those software tools and what I am to build a better world for humans in balance with nature. I am also very passionate about astronomy, history, science fiction and I love to enjoy a good book. 
 
+I am curently learning the go programming language and fiber framework for go.
+
 ---
 ### Find me at:
 
@@ -19,6 +21,7 @@ Additionally I am an environmental engineer and nature lover, my big dream is to
 <details>
 	<summary>:rocket:&nbsp;&nbsp;&nbsp;<b>Skills</b></summary>
 	<br/>
+	<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white"/>
 	<img src="https://img.shields.io/badge/python-%233a75a5.svg?&style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
 	<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23f7de1e" alt="JavaScript"/>
 	<img src="https://img.shields.io/badge/html5-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
