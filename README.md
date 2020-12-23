@@ -10,7 +10,7 @@ I want to tell you a little bit about me, I am currently a software developer in
 
 Additionally I am an environmental engineer and nature lover, my big dream is to use all those software tools and what I am to build a better world for humans in balance with nature. I am also very passionate about astronomy, history, science fiction and I love to enjoy a good book. 
 
-I am curently learning the go programming language and fiber framework for go.
+I am curently working in a personal project using go and fiber framework for go.
 
 ---
 ### Find me at:
