@@ -10,7 +10,7 @@ I want to tell you a little bit about me, I am currently a software developer in
 
 Additionally I am an environmental engineer and nature lover, my big dream is to use all those software tools and what I am to build a better world for humans in balance with nature. I am also very passionate about astronomy, history, science fiction and I love to enjoy a good book. 
 
-I am curently working in a personal project using go and fiber framework for go.
+I am curently working in a personal projects using go language.
 
 ---
 ### Find me at:
@@ -32,6 +32,7 @@ I am curently working in a personal project using go and fiber framework for go.
 	<img src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
 	<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
 	<img src="https://img.shields.io/badge/nginx%20-%23009639.svg?&style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx"/>
+	<img src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 	
 </details>
 
